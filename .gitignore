@@ -1,0 +1,14 @@
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.log
+.vscode/*
+!.vscode/launch.json
+!.vscode/settings.json
+data/*.sqlite
+data/*.db
+data/local_kb.json
+uploads/*
+!uploads/.gitkeep
